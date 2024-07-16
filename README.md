@@ -1,13 +1,13 @@
-### 기술스택
+### 🔥 기술스택
 - HTML, CSS, JavaScript, React 
 - Node.js, Express, NestJS, TypeScript
 - MongoDB, MySQL
 - AWS S3, EC2, Route53, Cloudfront
 
-### 사용언어
+### 🔥 사용언어
 - JavaScript, TypeScript, Python <br>
 
-### 프로그래밍과 나
+### 🔥 프로그래밍과 나
 <details>
   <summary><b>프로그래밍과의 첫 만남</b></summary>
   
