@@ -20,6 +20,7 @@
 ### [🌐] Project Experience:
 - Led a team of aspiring web developers to create a <b>`community website`</b> for <b>`my nursing school studends and alumni`</b>.
 - Gained hands-on experience in the <b>`entire development lifecycle`</b>, from user-centric design to deployment.
+> 🔗 중간이들 (Caugannies): https://www.caugannies.com/
 
 ### [⚙️] Interests:
 - Optimizing development workflows and leveraging automation tools to <b>`increase efficiency`</b>.
