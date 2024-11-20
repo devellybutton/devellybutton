@@ -18,10 +18,21 @@
 - To start web development, I began learning <b>`JavaScript`</b> and <b>`TypeScript`</b>.
 
 ### [🌐] Project Experience:
-- Led a team of aspiring web developers to create a <b>`community website`</b> for <b>`my nursing school studends and alumni`</b>.
-- Gained hands-on experience in the <b>`entire development lifecycle`</b>, from user-centric design to deployment.
-> 🔗 중간이들 (Caugannies): https://www.caugannies.com/
 
+- **Led a team of aspiring web developers** to create a **community website** for **my nursing school students and alumni**. Gained hands-on experience in the **entire development lifecycle**, from user-centric design to deployment.
+  > 🔗 [Caugannies](https://www.caugannies.com/) - Chung-ang University Nursing School Alumni Community <br>
+  >
+  > - Worked on **`NestJS`** and **`deployment processes`**, and delved deeper into **`backend`** and **`infrastructure`**.
+  > - Focused on tight collaboration with **`frontend developers`**, learning the importance of **`teamwork`** and **`communication`**.
+
+- **Built and launched** a **travel itinerary platform** where users can document and share their trips by uploading images, recording travel schedules, and managing budgets.
+  > 🔗 [TripTeller](https://www.trip-teller.com/) - Travel itinerary recording and sharing community <br>
+  >
+  > - Implemented **`pagination`** and **`sorting`**, and utilized **`NestJS features`** like **`filters`**, **`logging`**, **`guards`**, **`pipes`**, and **`middleware`** for improved functionality and security.
+- **Developed an e-commerce platform** designed to sell essential items for people living alone, focusing on **modern design**, **user-friendly shopping experiences**, and **secure payment systems**.
+  > 🔗 [HoneyTouse](https://www.honeytouse.com/) - E-commerce platform for essential products
+  > 
+  > - Gained a deeper understanding of **`server-side fundamentals`** by working with **`Express`** and building the necessary **`backend architecture`**.
 ### [⚙️] Interests:
 - Optimizing development workflows and leveraging automation tools to <b>`increase efficiency`</b>.
 - Committed to <b>`continuous learning`</b> to grow as a developer and create innovative solutions that address real-world challenges.
@@ -45,7 +56,8 @@
   <img src="https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&logo=typeorm&logoColor=white">
   <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
-<div>
+  <img src="https://img.shields.io/badge/redis-D93B4A?style=for-the-badge&logo=redis&logoColor=white">
+</div>
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
