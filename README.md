@@ -73,7 +73,6 @@
 </div>
 
 <div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=devellybutton" alt="GitHub Streak" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut" /><br>
   <img src="https://github-readme-stats.vercel.app/api?username=devellybutton&hide_rank=true&show_icons=true" /><br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ninano00" /><br>
