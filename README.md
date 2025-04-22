@@ -12,6 +12,31 @@
 <a href="https://www.trip-teller.com/" target="_blank"><img src="https://img.shields.io/badge/Project-TripTeller-orange?style=for-the-badge" alt="TripTeller"/></a>
 <a href="https://github.com/HoneyTouse/" target="_blank"><img src="https://img.shields.io/badge/Project-HoneyTouse-yellow?style=for-the-badge" alt="HoneyTouse"/></a>
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github.com/devellybutton/devellybutton/blob/main/profileImage02.png" width="800" style="border: 3px solid #3178C6; box-shadow: 0 0 10px rgba(0,0,0,0.2);" alt="Profile Banner"/>
+      </td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%">
+        <img src="https://github.com/devellybutton/devellybutton/blob/main/profileImage01.png" width="100%" style="border: 2px solid #5FA04E; box-shadow: 0 0 8px rgba(0,0,0,0.1);" alt="Profile Image 1"/>
+      </td>
+      <td width="33%">
+        <img src="https://github.com/devellybutton/devellybutton/blob/main/profileImage03.png" width="100%" style="border: 2px solid #E0234E; box-shadow: 0 0 8px rgba(0,0,0,0.1);" alt="Profile Image 3"/>
+      </td>
+      <td width="33%">
+        <img src="https://github.com/devellybutton/devellybutton/blob/main/profileImage04.png" width="100%" style="border: 2px solid #61DAFB; box-shadow: 0 0 8px rgba(0,0,0,0.1);" alt="Profile Image 4"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 </div>
 
 ## 💻 My Journey | 나의 여정
