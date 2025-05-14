@@ -24,22 +24,23 @@
 </div>
 
 <div align="center">
-  <table width="80%"> 
-    <tr>
-      <td width="33%">
-        <a href="https://www.instagram.com/p/DIDfHG2PFmX/?igsh=a3FrNGprdHRwbGVh" target="_blank">
-        <img src="https://github.com/devellybutton/devellybutton/blob/main/profileImage01.png" width="90%" style="border: 2px solid #5FA04E; box-shadow: 0 0 8px rgba(0,0,0,0.1);" alt="Profile Image 1"/>
-      </td>
-      <td width="33%">
-        <a href="https://www.instagram.com/p/DIDeejLP5z7/?igsh=eWJsOHVuZXE4M3R2" target="_blank">
-        <img src="https://github.com/devellybutton/devellybutton/blob/main/profileImage03.png" width="90%" style="border: 2px solid #E0234E; box-shadow: 0 0 8px rgba(0,0,0,0.1);" alt="Profile Image 3"/>
-      </td>
-      <td width="33%">
-        <a href="https://www.instagram.com/p/DIDf3ISvwIV/?igsh=bHkzeDZxemduMTU1" target="_blank">
-        <img src="https://github.com/devellybutton/devellybutton/blob/main/profileImage04.png" width="90%" style="border: 2px solid #61DAFB; box-shadow: 0 0 8px rgba(0,0,0,0.1);" alt="Profile Image 4"/>
-      </td>
-    </tr>
-  </table>
+    <table width="80%"> 
+      <tr>
+        <td width="33%">
+          <a href="https://www.instagram.com/p/DIDfHG2PFmX/?igsh=a3FrNGprdHRwbGVh" target="_blank">
+          <img src="https://github.com/devellybutton/devellybutton/blob/main/profileImage01.png" width="90%" style="border: 2px solid #5FA04E; box-shadow: 0 0 8px rgba(0,0,0,0.1);" alt="Profile Image 1"/>
+        </td>
+        <td width="33%">
+          <a href="https://www.instagram.com/p/DIDeejLP5z7/?igsh=eWJsOHVuZXE4M3R2" target="_blank">
+          <img src="https://github.com/devellybutton/devellybutton/blob/main/profileImage03.png" width="90%" style="border: 2px solid #E0234E; box-shadow: 0 0 8px rgba(0,0,0,0.1);" alt="Profile Image 3"/>
+        </td>
+        <td width="33%">
+          <a href="https://www.instagram.com/p/DIDf3ISvwIV/?igsh=bHkzeDZxemduMTU1" target="_blank">
+          <img src="https://github.com/devellybutton/devellybutton/blob/main/profileImage04.png" width="90%" style="border: 2px solid #61DAFB; box-shadow: 0 0 8px rgba(0,0,0,0.1);" alt="Profile Image 4"/>
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 ## 💻 My Journey | 나의 여정
