@@ -2,41 +2,62 @@
   
 # 👋 Hello, I'm Garin Lee
 
-### Node.js Server Developer from South Korea
-#### Former Nursing Student turned Developer
+### Node.js Developer • 🇰🇷 Seoul
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=FF69B4&center=true&vCenter=true&width=435&lines=👩‍⚕️+Nurse+→+👩‍💻+Developer;🏥+Care+→+💻+Code;" alt="Typing SVG" />
+</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js%20%7C%20NestJS%20%7C%20TypeScript-Server--Side%20Developer-3178C6?style=for-the-badge&logo=typescript" alt="Tech Stack" />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&duration=3500&pause=2000&color=000000&center=true&vCenter=true&random=false&width=500&lines=Node.js+%7C+TypeScript+%7C+NestJS+Developer;From+Healthcare+to+Software+Engineering" alt="Typing SVG" />
+<table width="100%">
+<tr>
+<td width="33%" align="center" style="border-bottom: 2px solid #f0f0f0; padding: 15px;">
+<h3>💉 Caugannies</h3>
+</td>
+<td width="33%" align="center" style="border-bottom: 2px solid #f0f0f0; padding: 15px;">
+<h3>✈️ TripTeller</h3>
+</td>
+<td width="33%" align="center" style="border-bottom: 2px solid #f0f0f0; padding: 15px;">
+<h3>🍯 HoneyTouse</h3>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 10px;">
+<strong>중앙대 간호학과 동문 커뮤니티</strong>
+</td>
+<td align="center" style="padding: 10px;">
+<strong>여행 기록 공유 커뮤니티</strong>
+</td>
+<td align="center" style="padding: 10px;">
+<strong>자취용품 판매 쇼핑몰</strong>
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 15px;">
+<a href="https://www.caugannies.com/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Visit%20Live-4285F4?style=for-the-badge&logoColor=white"/>
+</a>
+</td>
+<td align="center" style="padding: 15px;">
+<a href="https://www.trip-teller.com/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Visit%20Live-FF6B35?style=for-the-badge&logoColor=white"/>
+</a>
+</td>
+<td align="center" style="padding: 15px;">
+<a href="https://github.com/HoneyTouse/" target="_blank">
+<img src="https://img.shields.io/badge/📂%20View%20Code-181717?style=for-the-badge&logoColor=white"/>
+</a>
+</td>
+</tr>
+</table>
 
-
-<a href="https://www.caugannies.com/" target="_blank"><img src="https://img.shields.io/badge/Project-Caugannies-blue?style=for-the-badge" alt="Caugannies"/></a>
-<a href="https://www.trip-teller.com/" target="_blank"><img src="https://img.shields.io/badge/Project-TripTeller-orange?style=for-the-badge" alt="TripTeller"/></a>
-<a href="https://github.com/HoneyTouse/" target="_blank"><img src="https://img.shields.io/badge/Project-HoneyTouse-yellow?style=for-the-badge" alt="HoneyTouse"/></a>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://devellybutton.github.io/" target="_blank">
-        <img src="https://github.com/devellybutton/devellybutton/blob/main/profileImage02.png" width="600" style="border: 3px solid #3178C6; box-shadow: 0 0 10px rgba(0,0,0,0.2);" alt="Profile Banner"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-    <table width="80%"> 
+  <div align="center">
+    <table>
       <tr>
-        <td width="33%">
-          <a href="https://www.instagram.com/p/DIDfHG2PFmX/?igsh=a3FrNGprdHRwbGVh" target="_blank">
-          <img src="https://github.com/devellybutton/devellybutton/blob/main/profileImage01.png" width="90%" style="border: 2px solid #5FA04E; box-shadow: 0 0 8px rgba(0,0,0,0.1);" alt="Profile Image 1"/>
-        </td>
-        <td width="33%">
-          <a href="https://www.instagram.com/p/DIDeejLP5z7/?igsh=eWJsOHVuZXE4M3R2" target="_blank">
-          <img src="https://github.com/devellybutton/devellybutton/blob/main/profileImage03.png" width="90%" style="border: 2px solid #E0234E; box-shadow: 0 0 8px rgba(0,0,0,0.1);" alt="Profile Image 3"/>
-        </td>
-        <td width="33%">
-          <a href="https://www.instagram.com/p/DIDf3ISvwIV/?igsh=bHkzeDZxemduMTU1" target="_blank">
-          <img src="https://github.com/devellybutton/devellybutton/blob/main/profileImage04.png" width="90%" style="border: 2px solid #61DAFB; box-shadow: 0 0 8px rgba(0,0,0,0.1);" alt="Profile Image 4"/>
+        <td>
+          <a href="https://devellybutton.github.io/" target="_blank">
+          <img src="https://github.com/devellybutton/devellybutton/blob/main/profileImage02.png" width="600" style="border: 3px solid #3178C6; box-shadow: 0 0 10px rgba(0,0,0,0.2);" alt="Profile Banner"/>
         </td>
       </tr>
     </table>
@@ -135,35 +156,77 @@ const 프로젝트목록: 프로젝트[] = [
 
 ## ⚙️ Tech Stack
 
-<div align="center">
-  <img src="https://img.shields.io/badge/nodedotjs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&logo=typeorm&logoColor=white">
-  <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
-</div>
+<table align="center">
+<tr>
+<td align="center" style="padding: 10px;">
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
+</td>
+<td align="center" style="padding: 10px;">
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+</td>
+<td align="center" style="padding: 10px;">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+</td>
+<td align="center" style="padding: 10px;">
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+</td>
+</tr>
+<tr>
+<td align="center" style="padding: 10px;">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</td>
+<td align="center" style="padding: 10px;">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</td>
+<td align="center" style="padding: 10px;">
+<img src="https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white">
+</td>
+<td align="center" style="padding: 10px;">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=devellybutton&hide_rank=true&show_icons=true&theme=tokyonight" />
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ninano00" />
+<table>
+<tr>
+<td width="33%" align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devellybutton&layout=donut&theme=tokyonight" />
+</td>
+<td width="33%" align="center">
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=devellybutton&hide_rank=true&show_icons=true&theme=tokyonight" />
+</td>
+<td width="33%" align="center">
+<a href="https://solved.ac/profile/ninano00" target="_blank">
+<img height="200" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ninano00" />
+</a>
+</td>
+</tr>
+</table>
 </div>
 
 ## 🔗 Connect With Me
-<div align="center">
-  <a href="https://devellybutton.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Personal Website"/></a>
-  <a href="https://kr.linkedin.com/in/%EA%B0%80%EB%A6%B0-%EC%9D%B4-8915502b4" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://programming-bellybutton.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Tech Blog"/></a>
-  <a href="https://linktr.ee/hungry_bellybutton" target="_blank"><img src="https://img.shields.io/badge/LinkTree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="LinkTree"/></a>
-</div>
+<table align="center">
+<tr>
+<td align="center" style="padding: 20px; border: 2px solid #e1e4e8; border-radius: 10px;">
+<h3>🌐 Portfolio</h3>
+<a href="https://devellybutton.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Visit%20Now-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+</td>
+<td align="center" style="padding: 20px; border: 2px solid #e1e4e8; border-radius: 10px;">
+<h3>💼 LinkedIn</h3>
+<a href="https://kr.linkedin.com/in/%EA%B0%80%EB%A6%B0-%EC%9D%B4-8915502b4" target="_blank">
+<img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</td>
+<td align="center" style="padding: 20px; border: 2px solid #e1e4e8; border-radius: 10px;">
+<h3>📚 Tech Blog</h3>
+<a href="https://programming-bellybutton.tistory.com/" target="_blank">
+<img src="https://img.shields.io/badge/Read%20Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white" alt="Tech Blog"/>
+</a>
+</td>
+</tr>
+</table>
