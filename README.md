@@ -200,7 +200,7 @@ const 프로젝트목록: 프로젝트[] = [
 </td>
 <td width="33%" align="center">
 <a href="https://solved.ac/profile/ninano00" target="_blank">
-<img height="180" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ninano00" />
+<img height="160" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ninano00" />
 </a>
 </td>
 </tr>
