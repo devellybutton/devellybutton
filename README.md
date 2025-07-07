@@ -51,17 +51,6 @@
 </td>
 </tr>
 </table>
-
-  <div align="center">
-    <table>
-      <tr>
-        <td>
-          <a href="https://devellybutton.github.io/" target="_blank">
-          <img src="https://github.com/devellybutton/devellybutton/blob/main/profileImage02.png" width="600" style="border: 3px solid #3178C6; box-shadow: 0 0 10px rgba(0,0,0,0.2);" alt="Profile Banner"/>
-        </td>
-      </tr>
-    </table>
-  </div>
 </div>
 
 ## 💻 My Journey | 나의 여정
